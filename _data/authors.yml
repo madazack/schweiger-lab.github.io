@@ -3,13 +3,13 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              Noel Naughton
-  email:             nnaught2@illinois.edu
+  name:              Anna Schweiger
+  email:             anna.schweiger@montana.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi I am Noel
+    Hi I am Anna
   # This photo will be used in the about section.
   picture:
     path:            Noel_Naughton.jpg
@@ -21,12 +21,12 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    email:           nnaught2@illinois.edu
-    orcid:           0000-0002-5553-4718
+    email:           anna.schweiger@montana.edu
+    orcid:           0000-0002-5567-4200
     #twitter:         jekyllrb
-    github:          nmnaughton
+    github:          annakat
     # download:        <url>
-    linkedin:        noel-naughton-bb061371
+    #linkedin:         <   >
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
