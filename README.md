@@ -1,6 +1,7 @@
 # Schweiger Lab Website
 
 This is the official website for the Schweiger Lab at Montana State University.
+Originally forked from [Noel Naughton's Lab website](https://github.com/nmnaughton/nmnaughton.github.io) : based on Hydejack with a few changes to make it less of a blog format.
 
 ## File Structure
 
